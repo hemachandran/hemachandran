@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hemachandran</h1>
-<h3 align="center">A Passionate Software Architect and Full-Stack Developer from Plannet Earth, India</h3>
+<h3 align="center">A Passionate Software Architect and Full-Stack Developer from Planet Earth, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemachandran&label=Profile%20views&color=0e75b6&style=flat" alt="hemachandran" /> </p>
 
@@ -8,8 +8,6 @@
 - 🔭 I’m currently working on **React Js and React Native apps**
 
 - 💬 Ask me about **JavaScript, React Js, CSS, Typescript**
-
-- 📫 How to reach me **hellohemachandran@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
